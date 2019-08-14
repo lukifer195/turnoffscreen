@@ -1,0 +1,2 @@
+# turnoffscreen
+shortcut turnoff screen
